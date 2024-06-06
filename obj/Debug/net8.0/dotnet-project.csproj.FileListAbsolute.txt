@@ -1,0 +1,14 @@
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\bin\Debug\net8.0\dotnet-project.exe
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\bin\Debug\net8.0\dotnet-project.deps.json
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\bin\Debug\net8.0\dotnet-project.runtimeconfig.json
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\bin\Debug\net8.0\dotnet-project.dll
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\bin\Debug\net8.0\dotnet-project.pdb
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.AssemblyInfoInputs.cache
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.AssemblyInfo.cs
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.csproj.CoreCompileInputs.cache
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.dll
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\refint\dotnet-project.dll
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.pdb
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\dotnet-project.genruntimeconfig.cache
+C:\Users\IsaacKiptooKilimo\Desktop\Griffin-projects\dotnet-project\obj\Debug\net8.0\ref\dotnet-project.dll
